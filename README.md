@@ -71,8 +71,8 @@ iOSApp2/
 ## Getting started
 
 ```bash
-git clone https://github.com/zubiatahseen1/iOSApp2.git
-cd iOSApp2
+git clone https://github.com/zubiatahseen1/scavengerHunt_IOS.git
+cd scavengerHunt_IOS
 open iOSApp2.xcodeproj
 ```
 
